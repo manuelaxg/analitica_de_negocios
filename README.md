@@ -1,18 +1,18 @@
 # analitica_de_negocios
 Acercamiento a herramientas de analítica de negocios como Power BI, SQL, Pyhton y R.
 
-# Cris ValenciiiiAAAaa
-## Se que ya no volveras
-### Tu cuerpo está en otra piel
-#### Se te ve en la mirada
-##### Que estas enamorada y te trata bien
-###### Pero yo sigo aquí
+# Top futuro de colombia
+## Cris valencia
+### Marbell
+#### Alvaro Uribe
+##### La liendra
+###### Yina Calderon
 
 ## ***Este es mi primer repositorio en GitHub***
 
 #### Datos random (No se que mas poner en la lista)
-* Tengo hambre
-* Soy adicta a tik tok
+* Me da miedo programar y que salga mal
+* La chamba es mi pasión
 * Soy dispersa pero me concentro a la vez
 
   [Estudio aquí xd](https://www.uexternado.edu.co/)

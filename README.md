@@ -19,3 +19,5 @@ Acercamiento a herramientas de analítica de negocios como Power BI, SQL, Pyhton
 
   ![Mi animal espiritual](https://www.elsoldetijuana.com.mx/incoming/7h4hk6-kesikesiperrito.jpg/ALTERNATES/LANDSCAPE_768/Kesikesiperrito.jpg)
 
+#### Mi Dashboard de Power BI
+# Lo envié por correo porque no me dejó ponerlo acá en GitHub

@@ -1,12 +1,12 @@
 # analitica_de_negocios
 Acercamiento a herramientas de analítica de negocios como Power BI, SQL, Pyhton y R.
 
-# Top futuro de colombia
-## Cris valencia
-### Marbell
-#### Alvaro Uribe
-##### La liendra
-###### Yina Calderon
+# TOP COMIDAS QUE ME GUSTAN
+## SUSHI
+### Salchipapa
+#### Pasta
+##### Tacos
+###### Francesa
 
 ## ***Este es mi primer repositorio en GitHub***
 
